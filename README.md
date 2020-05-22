@@ -1,4 +1,4 @@
-# branch-predictor
+# Branch Predictor
 This is a correlating branch predictor that makes use of 2-bit saturating counters. You are provided with a text file containing a trace of branch instructions consisting of the PC at which each branch occurs, and whether the branch is Taken or Not Taken. 
 The code is to evaluate the performance of a correlating branch predictor on this trace. Output file indicates, for each branch in the trace, whether it was predicted as Taken or Not Taken. 
 ## Branch Predictor Architecture
